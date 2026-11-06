@@ -21,7 +21,7 @@ Automated UI test for https://www.ebay.com/ built with Playwright.
 1. Clone the repository
    ```bash
    git clone https://github.com/Seifamr8/Luftborn-12.git
-   cd Luftborn-12
+   cd Luftborn-12/Task 2
    ```
 
 2. Install dependencies
@@ -55,8 +55,3 @@ package.json            Dependencies and scripts
 
 ## Video
 - Recorded run: see the `videos/` folder
-- Demo video: [paste your Google Drive / YouTube link here]
-
-## Notes
-- eBay's bot protection can intermittently show an "Error Page | eBay" page to automated browsers. The test reloads the page when it detects this. If it keeps happening, try a different network, turn off any VPN, wait a few minutes and run again.
-- eBay changes its page markup often, so selectors may need updating over time.

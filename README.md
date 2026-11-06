@@ -21,7 +21,7 @@ Automated UI test for https://www.ebay.com/ built with Playwright.
 1. Clone the repository
    ```bash
    git clone https://github.com/Seifamr8/Luftborn-12.git
-   cd Luftborn-12/Task 2
+   cd Luftborn-12/Task2
    ```
 
 2. Install dependencies
